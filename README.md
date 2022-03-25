@@ -1,4 +1,5 @@
-# test3 reverce merge
-1
-2
-3
+# test3 
+merge 1
+merge 2
+merge 3
+
